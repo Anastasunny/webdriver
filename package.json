@@ -1,0 +1,27 @@
+{
+  "name": "ht15",
+  "version": "1.0.0",
+  "description": "HT unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/runner",
+    "init": "jasmine init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "init"
+  },
+  "keywords": [
+    "test",
+    "unit",
+    "test"
+  ],
+  "author": "Anastasia Malets",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^95.0.0",
+    "jasmine": "^3.10.0",
+    "selenium-webdriver": "^4.0.0"
+  },
+  "devDependencies": {}
+}
